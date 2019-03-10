@@ -1,4 +1,4 @@
-##Meme Generator Web App
+## Meme Generator Web App
 
 This is a small project that generates a meme from an API. Following the [freeCodeCamp](https://scrimba.com/playlist/p7P5Hd) tutorial, I successfully created what is asked for, as well as changing the style to make it more unique. Also, this is my first time using ReactJS, so it is more of an introductory project that provided substantial information to help me understand ReactJS and pave the way for more projects.
 
